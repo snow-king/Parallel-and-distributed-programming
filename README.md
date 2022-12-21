@@ -2,5 +2,5 @@
 
 | лабораторная  | ссылка             | статус|
 | ------------- |:------------------:| -----:|
-| №1            | [ссылка на git](https://github.com/snow-king/ParralelProgC-)    | ожидает проверки |
-| №2            |  |   в разработке |
+| №1            | [ссылка на git](https://github.com/snow-king/ParralelProgC-)    | проверено |
+| №2            | [ссылка на git](https://github.com/snow-king/openMP) |  ожидает проверки |
